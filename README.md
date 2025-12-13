@@ -166,7 +166,7 @@ satyanadella
 
 or
 
-https://www.linkedin.com/in/phil-isernio-6b22073/
+https://www.linkedin.com/in/
 
 What happens internally?
 
