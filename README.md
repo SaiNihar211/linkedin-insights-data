@@ -3,6 +3,21 @@
 📊 LinkedIn Insights Server (End-to-End Backend Project)
 
 This project is a complete backend system that:
+Page Name
+Page url
+id (the LinkedIn platform specific id)
+Page Profile Picture
+Description
+Website
+Page Industry
+Total Followers
+Head Count
+Specialities
+Any other fields you find useful or a good-to-have
+
+
+
+
 
 Accepts a LinkedIn profile name or profile URL
 
